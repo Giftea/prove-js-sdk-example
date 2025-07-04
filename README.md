@@ -47,7 +47,7 @@ Follow these steps to get the project running locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/giftea/prove-js-sdk-example.git
+git clone https://github.com/Giftea/prove-js-sdk-example.git
 cd prove-js-sdk-example
 ```
 
