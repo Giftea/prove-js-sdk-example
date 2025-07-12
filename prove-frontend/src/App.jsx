@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Route, Routes } from "react-router";
-import { useProveAuth } from "./hooks/useProveAuth.jsx";
 import PhoneForm from "./components/PhoneForm.jsx";
 import StatusDisplay from "./components/StatusDisplay.jsx";
 import CompletionForm from "./components/CompletionForm.jsx";
